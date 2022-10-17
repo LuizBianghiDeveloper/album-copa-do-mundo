@@ -1,16 +1,29 @@
-# album_app
+<h1 align="center"> Aplicativo Álbum de Figurinha Copa do Mundo 2022 </h1>
 
-Projeto album de figurinhas da copa
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Getting Started
+Esse é um projeto de criação de aplicativo Flutter, com intuito de armazenar as figurinhas do Álbum da Copa do Mundo 2022 - Qatar. </br></br>
+Com esse aplicativo, o usuário consegue verificar quais são as figurinhas que ele já possui em seu album, as figurinhas faltantes e a quantidade de figurinhas repetidas. 
 
-This project is a starting point for a Flutter application.
+# 📁 Acesso ao projeto
 
-A few resources to get you started if this is your first Flutter project:
+Voce pode acessar o código fonte do projeto ou baixá-lo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🛠️ Abrir e rodar o projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Após baixar o projeto, você pode abri com o Android Studio. Para isso, na tela do launcher clique em:
+
+  * Open a Existing Project (ou alguma opção similar)
+  * Procure o local onde o projeto está e selecione (Caso o projeto seja baixado via zip, é nescessário extraí-lo antes de procurá-lo.)
+  * Por fim clique em OK.
+  
+Lembrando que para executar o projeto, é nescessário ter instalado na máquina o Flutter.
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Flutter``
+- ``Android Studio``
+
+
